@@ -56,9 +56,7 @@ This modularity ensures clean separation of concerns, version control clarity, a
 
 ## Connect with Me
 
-- **GitHub**: [@atishay04](https://github.com/atishay04)  
-- **LinkedIn**: [Atishay Jain](https://www.linkedin.com/in/atishay-jain-0465aj/)
-
+- **GitHub**: [@yashraj17-ops](https://github.com/yashraj17-ops)  
 ---
 
 Thank you for exploring my portfolio. Feel free to visit individual repositories for detailed code, explanations, and additional documentation on each task.
